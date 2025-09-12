@@ -1,0 +1,8 @@
+De todas las variables que trae la base de datos del trabajo, sólo vamos a elegir 5.
+
+1. Cuantitativa discreta x1
+2. Cuantitativa continua x2
+3. Cualitativa nominal x1
+4. Cualitativa ordinal x1
+
+Avance Item 1 16/09
