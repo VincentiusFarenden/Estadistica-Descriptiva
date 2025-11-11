@@ -44,3 +44,13 @@ Abre los notebooks (.ipynb) y ejecuta las celdas para ver los ejercicios y resul
 - Matplotlib
 - Seaborn
 - SciPy
+
+## Bonus: Apoyo útil para la resolución general de problemas y entendimiento del contenido.
+
+Esquema para entender el tipo de variable que se está trabajando y su clasificación
+<img width="2114" height="1070" alt="image" src="https://github.com/user-attachments/assets/16c18700-1d64-4b4f-a220-fe7e67b0f1d1" />
+
+Regla de Sturges para el cálculo óptimo de intervalos en percentiles
+<img width="938" height="442" alt="image" src="https://github.com/user-attachments/assets/387e4a9d-6823-411c-a4d4-172332776429" />
+
+
