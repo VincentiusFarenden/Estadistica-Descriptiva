@@ -45,9 +45,7 @@ Abre los notebooks (.ipynb) en VS Code o Google Colab y ejecuta las celdas para 
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
 - SciPy
-- Sympy
 - Scikit-Learn
 
 ## Bonus: Apoyo útil para la resolución general de problemas y entendimiento del contenido.
