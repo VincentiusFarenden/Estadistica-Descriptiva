@@ -50,6 +50,7 @@ Abre los notebooks (.ipynb) y ejecuta las celdas para ver los ejercicios y resul
 - Matplotlib
 - Seaborn
 - SciPy
+- Simpy
 
 ## Bonus: Apoyo útil para la resolución general de problemas y entendimiento del contenido.
 
