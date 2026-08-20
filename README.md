@@ -29,11 +29,11 @@ Instala las dependencias en un entorno virtual (Para no romper otros paquetes na
 
 Linux/MacOS
 ```bash
-python3 -m venv ~/venvs/data && ~/venvs/data/bin/pip install --upgrade pip && ~/venvs/data/bin/pip install numpy simpy pandas matplotlib seaborn scipy jupyter scikit-learn
+python3 -m venv ~/venvs/data && ~/venvs/data/bin/pip install --upgrade pip && ~/venvs/data/bin/pip install numpy sympy pandas matplotlib seaborn scipy jupyter scikit-learn
 ```
 Windows (PowerShell)
 ```bash
-python -m venv $HOME\venvs\data ; & "$HOME\venvs\data\Scripts\pip" install --upgrade pip ; & "$HOME\venvs\data\Scripts\pip" install numpy simpy pandas matplotlib seaborn scipy jupyter scikit-learn
+python -m venv $HOME\venvs\data ; & "$HOME\venvs\data\Scripts\pip" install --upgrade pip ; & "$HOME\venvs\data\Scripts\pip" install numpy sympy pandas matplotlib seaborn scipy jupyter scikit-learn
 ```
 
 ## Uso
@@ -47,7 +47,7 @@ Abre los notebooks (.ipynb) en VS Code o Google Colab y ejecuta las celdas para 
 - Matplotlib
 - Seaborn
 - SciPy
-- Simpy
+- Sympy
 - Scikit-Learn
 
 ## Bonus: Apoyo útil para la resolución general de problemas y entendimiento del contenido.
